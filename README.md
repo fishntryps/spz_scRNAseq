@@ -1,4 +1,4 @@
-The spz_scRNAseq repository contains scripts used to compare Plasmodium falciparum sporozoites obtained from Anopheles gambiae mosquitos raised under 2 conditions:
+The Spz_scRNAseq repository contains scripts used to compare Plasmodium falciparum sporozoites obtained from Anopheles gambiae mosquitos raised under 2 conditions:
 
 "1BF": mosquitos provided 1 infectious bloodmeal; and "2BF": mosquitos provided 1 infectious bloodmeal and a 2nd bloodmeal (non-infectious) 3 days later
 
