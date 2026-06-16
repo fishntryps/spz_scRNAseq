@@ -1,8 +1,10 @@
 The spz_scRNAseq repository contains scripts used to compare Plasmodium falciparum sporozoites obtained from Anopheles gambiae mosquitos raised under 2 conditions:
 
-"1BF": mosquitos provided 1 infectious bloodmeal; and "2BF": mosquitos provided 1 infectious bloodmeal and a 2nd bloodmeal (non-infectious) 3 days later
+"1BF" mosquitos provided 1 infectious bloodmeal; and "2BF" mosquitos provided 1 infectious bloodmeal plus an additional non-infectious bloodmeal 3 days later
 
-Single-cell transcriptomes of day11 and day15 sporozoites were generated via 10x Genomics + Illumina NovaSeq S4
+Sporozoites were purified from the salivary glands via density gradient centrifugation 11 days after the infections bloodmeal unless otherwise indicated
+
+Single-cell transcriptomes were generated using 10x Genomics + Illumina NovaSeq S4
 
 The first set of scripts describes initial processing from raw Counts (QC, normalization, and integration, dimensionality reduction)
 
